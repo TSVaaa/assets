@@ -1,0 +1,10 @@
+}
+  "symbol": "DAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "We move the world",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://ftmscout.com/address/0x001f94A0D1E7Bdb5eD43f569CE81487598De84F9?tab=index",
+  "status": "active",
+  "id": "0x001f94A0D1E7Bdb5eD43f569CE81487598De84F9"
+}
